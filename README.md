@@ -6,7 +6,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the study. They have also asked for a top-level summary of the study results.
 
-## Tasks Breakdown
+## Breakdown of Tasks
 
 
 ### Prepare the Data
