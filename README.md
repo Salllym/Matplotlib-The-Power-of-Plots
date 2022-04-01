@@ -6,7 +6,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the study. They have also asked for a top-level summary of the study results.
 
-## Instructions
+## Tasks Breakdown
 
 
 ### Prepare the Data
@@ -66,3 +66,12 @@ Create two summary statistics DataFrames:
 1. Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. 
 
 2. Plot the linear regression model on top of the previous scatter plot.
+
+
+## Observations and Insights
+
+* Capomulin and Ramicane reduces the tumor size better.
+
+* There is a positive correlation between mouse weight and average tumor volume, it is 0.84. As the mouse weight increases, the average tumor volume increases too.
+
+* The bar graph shows that Capomulin and Ramicane had the most number of mice tested.
