@@ -6,7 +6,7 @@ In this study, 249 mice identified with SCC tumor growth were treated with a var
 The following visualizations were created: 
 * Summary statistics dataframe
 
-![summarystatsdf](output_data/summarystatsdf.png) 
+![summarystatsdf](output_data/summarystatsdf.PNG) 
 
 * Bar plots showing  the total number of timepoints for all mice tested for each drug regimen throughout the course of the study
 
