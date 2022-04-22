@@ -8,11 +8,11 @@ The following visualizations were created:
 
 ![summarystatsdf](output_data/summarystatsdf.PNG) 
 
-* Bar plots showing  the total number of timepoints for all mice tested for each drug regimen throughout the course of the study
+* Bar plot showing  the total number of timepoints for all mice tested for each drug regimen throughout the course of the study
 
 ![barplot](output_data/barplot.png) 
 
-* Pie charts showing the distribution of female or male mice in the study
+* Pie chart showing the distribution of female or male mice in the study
 
 ![piechart](output_data/piechart.png) 
 
