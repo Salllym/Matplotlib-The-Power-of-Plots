@@ -4,14 +4,30 @@ In this study, 249 mice identified with SCC tumor growth were treated with a var
 
 
 The following visualizations were created: 
-* Two summary statistics dataframes
-* Two bar plots showing  the total number of timepoints for all mice tested for each drug regimen throughout the course of the study
-* Two pie charts showing the distribution of female or male mice in the study
-* One box plot of the final tumor volume for all four treatment regimens
-* A line plot of volume versus timepoint for Capomulin treatmeant of mouse l509
-* A scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen
-* A linear regression model between mouse weight and average tumor volume for the Capomulin treatment plotted on top of the scatter plot
+* Summary statistics dataframes
+* Bar plots showing  the total number of timepoints for all mice tested for each drug regimen throughout the course of the study
 
+![barplot](output_data/barplot.png) 
+
+* Pie charts showing the distribution of female or male mice in the study
+
+![piechart](output_data/piechart.png) 
+
+* Box plot of the final tumor volume for all four treatment regimens
+
+![boxplot](output_data/boxplot.png) 
+
+* Line plot of volume versus timepoint for Capomulin treatmeant of mouse l509
+
+![lineplot](output_data/lineplot.png) 
+
+* Scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen
+
+![scatterplot](output_data/scatterplot.png) 
+
+* Linear regression model between mouse weight and average tumor volume for the Capomulin treatment plotted on top of the scatter plot
+
+![regression](output_data/regression.png) 
 
 ## Observations and Insights
 
